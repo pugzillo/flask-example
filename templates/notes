@@ -1,0 +1,6 @@
+# Taking the route, putting it, and running on our server (Make sure you're in the directory)
+export FLASK_APP=flask_blog.py
+flask run
+
+# Turn on debugger
+export FLASK_DEBUG=1
